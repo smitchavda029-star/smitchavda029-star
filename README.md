@@ -1,4 +1,3 @@
-"Hi thrtr👋" 
 # 💫 About Me:
 🔭 I’m currently study in BCA<br>🙋‍♂️ Hi, I am Smit Chavda<br>🌱 I’m currently learning HTML, CSS, Python<br><br><br>
 
